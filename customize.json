@@ -1,0 +1,23 @@
+{
+  "greeting": "Helu anh",
+  "name": "Cuong",
+  "greetingText": "I can't believe that I'm doing this but yeah, I'm coding!!",
+  "wishText": "I hope all your birthday wishes and dreams come true :3",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you! ",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are one of the few people whose birthday I can remember without a Facebook reminder",
+  "smiley": "^^",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
